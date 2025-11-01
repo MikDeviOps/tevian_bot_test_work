@@ -145,7 +145,7 @@ tevian-bot/
 
 #### Клонирование репозитория:
 ```bash
-git clone https://github.com/your-username/tevian-face-bot.git
+git clone https://github.com/your-username/tevian_bot_test_work.git
 cd tevian-face-bot
 ```
 
