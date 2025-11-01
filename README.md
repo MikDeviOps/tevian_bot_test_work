@@ -207,4 +207,4 @@ docker-compose down
 
 ## Demo
 
-[Призентация работы приложения](https://disk.yandex.ru/client/disk?idApp=client&dialog=slider&idDialog=%2Fdisk%2Fvideo_2025-11-01_13-21-21.mp4)
+[Призентация работы приложения](https://disk.yandex.ru/i/h7G-aZZKPA8qOg)
