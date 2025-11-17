@@ -204,7 +204,3 @@ docker-compose down
 | delete_face_from_bucket()  | /api/bucket/{name}/{face_id}  |  DELETE| Удаление лица
 | search_by_photo()  | /api/photo/matches  |  POST| Поиск по фото
 | search_similar_faces()  | /api/bucket/{name}/{face_id}/matches  |  GET| Поиск похожих лиц
-
-## Demo
-
-[Призентация работы приложения](https://disk.yandex.ru/i/h7G-aZZKPA8qOg)
